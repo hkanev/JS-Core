@@ -2,12 +2,12 @@ function AssignProperties(input){
 
     let obj = {};
 
-    let name = "name";
+    let name = input[0];
     obj[name] = input[1]
-    let age = "age";
+    let age =  input[2];
     obj[age] = input[3]
-    let gander = "gander";
-    obj[gander] = input[5]
+    let gender = input[4];
+    obj[gender] = input[5]
 
     console.log(obj);
 }
