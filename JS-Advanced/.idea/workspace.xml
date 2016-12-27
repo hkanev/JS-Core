@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab456030-6b51-4a55-8e28-debd8feaad22" name="Default" comment="" />
+    <ignored path="JS-Advanced.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JS-Advanced" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="01.SumNumbers.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.DOM/01.SumNumbers.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02.ShowMore.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.DOM/02.ShowMore.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="63" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.CollectListItems.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.DOM/03.CollectListItems.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="37" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.ColorizeTable.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.DOM/04.ColorizeTable.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.ListOfItems.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.DOM/05.ListOfItems.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06.AddDelete.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.DOM/06.AddDelete.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07.DeleteFromTable.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.DOM/07.DeleteFromTable.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01.DOM/02.ShowMore.js" />
+        <option value="$PROJECT_DIR$/01.DOM/06.AddDelete.js" />
+        <option value="$PROJECT_DIR$/03.Lab-DOM-JQuery/01.Substraction.html" />
+        <option value="$PROJECT_DIR$/03.Lab-DOM-JQuery/02.IncrementNumber.html" />
+        <option value="$PROJECT_DIR$/03.Lab-DOM-JQuery/03.Timer.js" />
+        <option value="$PROJECT_DIR$/03.Lab-DOM-JQuery/03.Timer.html" />
+        <option value="$PROJECT_DIR$/04.Book.js" />
+        <option value="$PROJECT_DIR$/03.Lab-DOM-JQuery/04.Book.js" />
+        <option value="$PROJECT_DIR$/03.Lab-DOM-JQuery/04.Book.html" />
+        <option value="$PROJECT_DIR$/04.IIFE/01.Aggregate.js" />
+        <option value="$PROJECT_DIR$/04.IIFE/03.MaxElement.js" />
+        <option value="$PROJECT_DIR$/04.IIFE/02.CommandProcessor.js" />
+        <option value="$PROJECT_DIR$/05.ObjectComposition/02.Fibonacci.js" />
+        <option value="$PROJECT_DIR$/05.ObjectComposition/01.OrderRectangle.js" />
+        <option value="$PROJECT_DIR$/05.ObjectComposition/04.Cars.js" />
+        <option value="$PROJECT_DIR$/05.ObjectComposition/03.ListProcessor.js" />
+        <option value="$PROJECT_DIR$/05.ObjectComposition/sum.html" />
+        <option value="$PROJECT_DIR$/05.ObjectComposition/05.Sum.js" />
+        <option value="$PROJECT_DIR$/06.Lab-IIFE/01.Sort.js" />
+        <option value="$PROJECT_DIR$/06.Lab-IIFE/02.ArgumentInfo.js" />
+        <option value="$PROJECT_DIR$/06.Lab-IIFE/03.FunctionalSum.js" />
+        <option value="$PROJECT_DIR$/06.Lab-IIFE/04.BMI.js" />
+        <option value="$PROJECT_DIR$/03.Lab-DOM-JQuery/05.FormValidation.html" />
+        <option value="$PROJECT_DIR$/03.Lab-DOM-JQuery/05.FormValidation/05.FormValidation.html" />
+        <option value="$PROJECT_DIR$/03.Lab-DOM-JQuery/05.FormValidation/05.FormValidation.js" />
+        <option value="$PROJECT_DIR$/06.Lab-IIFE/05.Vector.js" />
+        <option value="$PROJECT_DIR$/06.Lab-IIFE/06.BreakfastRobot.js" />
+        <option value="$PROJECT_DIR$/04.IIFE/01.Problem.js" />
+        <option value="$PROJECT_DIR$/06.Lab-IIFE/07.MonkeyPatcher.js" />
+        <option value="$PROJECT_DIR$/08.UnitTesting/SumArray.js" />
+        <option value="$PROJECT_DIR$/08.UnitTesting/Test/SumArray-Tests.js" />
+        <option value="$PROJECT_DIR$/08.UnitTesting/test/SumArray-Tests.js" />
+        <option value="$PROJECT_DIR$/08.UnitTesting/test/SumArray-tests.js" />
+        <option value="$PROJECT_DIR$/01.DOM/01.SumNumbers.js" />
+        <option value="$PROJECT_DIR$/01.DOM/01.SumNumbers.html" />
+        <option value="$PROJECT_DIR$/01.DOM/02.ShowMore.html" />
+        <option value="$PROJECT_DIR$/01.DOM/03.CollectListItems.js" />
+        <option value="$PROJECT_DIR$/01.DOM/03.CollectListItems.html" />
+        <option value="$PROJECT_DIR$/01.DOM/04.ColorizeTable.html" />
+        <option value="$PROJECT_DIR$/01.DOM/05.ListOfItems.js" />
+        <option value="$PROJECT_DIR$/01.DOM/05.ListOfItems.html" />
+        <option value="$PROJECT_DIR$/01.DOM/06.AddDelete.html" />
+        <option value="$PROJECT_DIR$/01.DOM/07.DeleteFromTable.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1604" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.DOM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/08.UnitTesting/test" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.6.0" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="C:\Users\iceto\AppData\Roaming\npm\node_modules\mocha" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JS-Core\JS-Advanced\01.DOM" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JS-Core\JS-Advanced\08.UnitTesting" />
+      <recent name="F:\JS-Core\JS-Advanced\03.Lab-DOM-JQuery" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Mocha.Mocha-test">
+    <configuration default="false" name="05.FormValidation.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Advanced/03.Lab-DOM-JQuery/05.FormValidation/05.FormValidation.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="05.Vector.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05.Vector.js" working-dir="$PROJECT_DIR$/06.Lab-IIFE">
+      <method />
+    </configuration>
+    <configuration default="false" name="05.FormValidation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05.FormValidation.js" working-dir="$PROJECT_DIR$/03.Lab-DOM-JQuery/05.FormValidation">
+      <method />
+    </configuration>
+    <configuration default="false" name="06.BreakfastRobot.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06.BreakfastRobot.js" working-dir="$PROJECT_DIR$/06.Lab-IIFE">
+      <method />
+    </configuration>
+    <configuration default="false" name="SumArray-Tests.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SumArray-tests.js" working-dir="$PROJECT_DIR$/08.UnitTesting/test">
+      <profiling v8-profiler-path="" />
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling v8-profiler-path="" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="meteor-app-runner" factoryName="Meteor">
+      <option name="startBrowserSettings">
+        <browser url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="meteor-app-runner" factoryName="Meteor">
+      <option name="startBrowserSettings">
+        <browser url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method />
+    </configuration>
+    <configuration default="false" name="Mocha-test" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/08.UnitTesting/test</test-directory>
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Meteor.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.Mocha-test" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.05.FormValidation.html" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.05.Vector.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.05.FormValidation.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.06.BreakfastRobot.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.SumArray-Tests.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.SumArray-Tests.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.06.BreakfastRobot.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.05.Vector.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.05.FormValidation.js" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.05.FormValidation.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab456030-6b51-4a55-8e28-debd8feaad22" name="Default" comment="" />
+      <created>1477052334126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477052334126</updated>
+      <workItem from="1477052335582" duration="1771000" />
+      <workItem from="1477379696382" duration="2493000" />
+      <workItem from="1477387808009" duration="1447000" />
+      <workItem from="1477467186747" duration="4730000" />
+      <workItem from="1477509796791" duration="537000" />
+      <workItem from="1477555063378" duration="3658000" />
+      <workItem from="1477582614593" duration="1003000" />
+      <workItem from="1477583658600" duration="2074000" />
+      <workItem from="1477641794990" duration="597000" />
+      <workItem from="1477727061988" duration="508000" />
+      <workItem from="1477895389070" duration="1086000" />
+      <workItem from="1480406697352" duration="743000" />
+      <workItem from="1480408238170" duration="3073000" />
+      <workItem from="1480411491171" duration="1038000" />
+      <workItem from="1480502484868" duration="601000" />
+      <workItem from="1482703660136" duration="260000" />
+      <workItem from="1482773229208" duration="250000" />
+      <workItem from="1482773496665" duration="617000" />
+      <workItem from="1482774774872" duration="48000" />
+      <workItem from="1482774912630" duration="12000" />
+      <workItem from="1482774952949" duration="246000" />
+      <workItem from="1482775200065" duration="1234000" />
+      <workItem from="1482831334422" duration="3597000" />
+      <workItem from="1482861378260" duration="251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Mocha-test - 2016.11.29 at 10h 58m 19s.xml">
+      <configuration name="Mocha-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha-test - 2016.11.29 at 10h 59m 07s.xml">
+      <configuration name="Mocha-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha-test - 2016.11.29 at 10h 59m 57s.xml">
+      <configuration name="Mocha-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha-test - 2016.11.29 at 11h 02m 49s.xml">
+      <configuration name="Mocha-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha-test - 2016.11.29 at 11h 07m 04s.xml">
+      <configuration name="Mocha-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha-test - 2016.11.29 at 11h 24m 54s.xml">
+      <configuration name="Mocha-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31874000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1604" height="867" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24874055" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.331572" sideWeight="0.5300752" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.4924812" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.4699248" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.4975" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994778" sideWeight="0.4974811" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/01.Substraction.html" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/02.IncrementNumber.html" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/04.Book.html" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/01.SumNumbers.html" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/02.ShowMore.html" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/03.CollectListItems.html" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/04.ColorizeTable.html" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/05.ListOfItems.html" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/06.AddDelete.html" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/07.DeleteFromTable.html" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/02.ShowMore.js" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/06.AddDelete.js" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/03.Timer.js" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/04.Book.js" />
+    <entry file="file://$PROJECT_DIR$/04.IIFE/03.MaxElement.js" />
+    <entry file="file://$PROJECT_DIR$/05.ObjectComposition/02.Fibonacci.js" />
+    <entry file="file://$PROJECT_DIR$/05.ObjectComposition/04.Cars.js" />
+    <entry file="file://$PROJECT_DIR$/05.ObjectComposition/03.ListProcessor.js" />
+    <entry file="file://$PROJECT_DIR$/05.ObjectComposition/sum.html" />
+    <entry file="file://$PROJECT_DIR$/05.ObjectComposition/05.Sum.js" />
+    <entry file="file://$PROJECT_DIR$/06.Lab-IIFE/01.Sort.js" />
+    <entry file="file://$PROJECT_DIR$/06.Lab-IIFE/02.ArgumentInfo.js" />
+    <entry file="file://$PROJECT_DIR$/06.Lab-IIFE/03.FunctionalSum.js" />
+    <entry file="file://$PROJECT_DIR$/06.Lab-IIFE/04.BMI.js" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/05.FormValidation.html" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/04.Book.html" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/05.FormValidation/index.html" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/05.FormValidation/style.css" />
+    <entry file="file://$PROJECT_DIR$/06.Lab-IIFE/05.Vector.js" />
+    <entry file="file://$PROJECT_DIR$/06.Lab-IIFE/06.BreakfastRobot.js" />
+    <entry file="file://$PROJECT_DIR$/04.IIFE/02.CommandProcessor.js" />
+    <entry file="file://$PROJECT_DIR$/04.IIFE/01.Problem.js" />
+    <entry file="file://$PROJECT_DIR$/04.IIFE/01.Aggregate.js" />
+    <entry file="file://$PROJECT_DIR$/05.ObjectComposition/01.OrderRectangle.js" />
+    <entry file="file://$PROJECT_DIR$/06.Lab-IIFE/07.MonkeyPatcher.js" />
+    <entry file="file://$PROJECT_DIR$/08.UnitTesting/SumArray.js" />
+    <entry file="file://$PROJECT_DIR$/08.UnitTesting/test/SumArray-tests.js" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/05.FormValidation/05.FormValidation.html" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/05.FormValidation/05.FormValidation.js" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/01.Substraction.html" />
+    <entry file="file://$PROJECT_DIR$/03.Lab-DOM-JQuery/02.IncrementNumber.html" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/01.SumNumbers.js" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/01.SumNumbers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.DOM/03.CollectListItems.js" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/03.CollectListItems.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.DOM/04.ColorizeTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.DOM/05.ListOfItems.js" />
+    <entry file="file://$PROJECT_DIR$/01.DOM/02.ShowMore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.DOM/05.ListOfItems.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.DOM/06.AddDelete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.DOM/07.DeleteFromTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

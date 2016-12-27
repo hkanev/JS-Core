@@ -11,18 +11,22 @@ function solve(input){
         }
 
         initials.get(initial).set(productName, productPrice);
-    }
-    let sortedInitials = [...initials].sort(alphabeticalSort);
-    for(let [key,val] of sortedInitials){
-        console.log(key)
-        let sortedProducts = [...val].sort(alphabeticalSort);
-        for(let [product,price] of sortedProducts){
-            console.log(`  ${product}: ${price}`)
+
+        function alphabeticalSort(a,b){
+            return a[0].toLowerCase().localeCompare(b[0].toLowerCase());
+        }
+
+        let sortedInitials = [...initials].sort(alphabeticalSort);
+        console.log(sortedInitials[0]);
+        for(let [key,val] of sortedInitials){
+            //console.log(key);
+            let sortedProducts = [...val].sort(alphabeticalSort);
+            for(let [product,price] of val){
+                   // console.log(`  ${product}: ${price}`)
+            }
         }
     }
-    function alphabeticalSort(a,b){
-        return a[0].toLowerCase().localeCompare(b[0].toLowerCase());
-    }
+
 }
 
 solve([
